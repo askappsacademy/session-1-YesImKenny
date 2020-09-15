@@ -1,3 +1,13 @@
 .container {
   background-color: green;
+  background-size: 800px;
+}
+h1 {
+  background-color: black;
+  color: white;
+  /* need to fix position to top */
+}
+#video {
+  background-image: url(img/video.png);
+  
 }
