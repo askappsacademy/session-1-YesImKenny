@@ -9,5 +9,10 @@ h1 {
 }
 #video {
   background-image: url(img/video.png);
-  
+}
+img {
+  border: 5px solid black;
+}
+ul {
+  list-style-type:none;
 }
