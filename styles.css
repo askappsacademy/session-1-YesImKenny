@@ -16,3 +16,11 @@ img {
 ul {
   list-style-type:none;
 }
+.title {
+  font-weight: bold;
+  background-color: coral;
+}
+.description {
+  background-color: black;
+  color: white;
+}
